@@ -1,1 +1,1 @@
-# Netflix_Homepage_project
+# Intership Projects
